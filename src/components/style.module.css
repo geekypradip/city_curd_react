@@ -1,0 +1,28 @@
+.formContainer{
+    display:flex;
+    width:80%;
+    margin: auto;
+    justify-content: space-around;
+}
+.CityTableContainer{
+    width:80%;
+    margin: auto;
+    margin-top: 30px;
+}
+.CityTable{
+    display:flex;
+    border-bottom: 1px solid #eee;
+    justify-content: space-around;
+    margin: 2px;
+}
+.CityTable>*{
+    flex-basis: 33%;
+}
+.pagination{
+    width:40%;
+    margin: auto;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}

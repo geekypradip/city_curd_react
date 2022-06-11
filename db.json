@@ -1,0 +1,44 @@
+{
+  "countries": [
+    {
+      "name": "pakistan",
+      "id": 3
+    },
+    {
+      "name": "bangaldesh",
+      "id": 4
+    },
+    {
+      "name": "india",
+      "id": 5
+    },
+    {
+      "name": "USA",
+      "id": 6
+    },
+    {
+      "name": "London",
+      "id": 7
+    },
+    {
+      "name": "india",
+      "id": 8
+    },
+    {
+      "name": "England",
+      "id": 9
+    },
+    {
+      "name": "USA",
+      "id": 10
+    }
+  ],
+  "cities": [
+    {
+      "name": "kolkata",
+      "population": 349993493749,
+      "country": "india",
+      "id": 1
+    }
+  ]
+}
